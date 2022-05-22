@@ -1,0 +1,55 @@
+
+.container1 view {
+    width: 234rpx;
+    height: 351rpx;
+    text-align: center;
+    margin-top: 11rpx;
+  }
+  .container1 view image{
+    width: 234rpx;
+    height: 351rpx;
+  }
+  
+  .container1{
+    display: flex;
+    justify-content: space-around;
+  }
+  /*-----------------------*/
+  .container2 view {
+    width: 234rpx;
+    height: 351rpx;
+    text-align: center;
+    margin-top: 70rpx;
+    margin-bottom: 117rpx;
+  }
+  .container2 view image{
+    width: 234rpx;
+    height: 351rpx;
+  }
+  .container2{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .container3 view {
+    width: 234rpx;
+    height: 351rpx;
+    text-align: center;
+    margin-bottom: 117rpx;
+  }
+  .container3 view image{
+    width: 234rpx;
+    height: 351rpx;
+  }
+  .container3{
+    display: flex;
+    justify-content: space-around;
+  }
+  /*---------------1------------------*/
+  .swiper-container{
+    height: 421rpx;/*轮播图高度*/
+     
+  }
+  .item{
+      width: 351rpx;
+  }

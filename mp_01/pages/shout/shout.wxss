@@ -1,0 +1,66 @@
+.coment1{
+    background-color: rgb(8, 65, 139);
+    width: 316rpx;
+    height: 421rpx;
+    border-radius: 35rpx;
+    margin-left: 47rpx;
+}
+.coment2{
+   position: absolute;
+    background-color: rgb(51, 120, 122);
+    width: 316rpx;
+    height: 421rpx;
+    border-radius: 35rpx;
+    margin-left: 398rpx;
+    margin-top: -421rpx;
+   
+}
+.coment1 text{
+display: flex;
+margin-left: 82rpx;
+margin-top: 23rpx;
+color: white;
+display: block;
+}
+.coment1 button{
+    margin-left: 117rpx;
+    margin-top: 12rpx;
+}
+.coment2 text{
+    color: white;
+    font-size: 70rpx;
+    font-weight: 700;
+   margin-left: 23rpx;
+  display: block;
+  margin-top: 46rpx;
+  margin-bottom: 93rpx;
+ 
+}
+.coment2 button{
+    margin-left: 164rpx;
+}
+.body{
+    width: 703rpx;
+    height: 750rpx;
+    background-color: lightgrey;
+    margin-left: 23rpx;
+    border-radius: 23rpx;
+    margin-top: 23rpx;
+    position: absolute;
+
+}
+.body text{
+
+    margin-left: -234rpx;
+    line-height: 117rpx;
+    display: flex;
+justify-content: space-around;
+}
+.body view image{
+    width: 70rpx;
+    height: 70rpx;
+    display: block;
+    margin-left: 82rpx;
+   position: relative;
+  margin-bottom: -93rpx;
+}

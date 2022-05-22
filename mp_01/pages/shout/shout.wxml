@@ -1,0 +1,33 @@
+<!--pages/shout/shout.wxml-->
+<view class="coment1">
+<rich-text nodes="<h1 style='color:white;'>VIP</h1>"></rich-text>
+<text>全场免广告</text>
+<text>会员书库</text>
+<text>付费书9折</text>
+<button size="mini">开通</button>
+</view>
+
+<view class="coment2">
+    <rich-text nodes="<h1 style='color:white;'>书豆</h1>"></rich-text>
+    <text>0</text>
+    <button size="mini">充值</button>
+</view>
+<view class="body">
+<view><image src="/pages/img/3.1.png"></image><text>会员记录</text>
+
+</view>
+
+ <view><image src="/pages/img/3.2.png"></image><text>购买记录</text></view>
+
+<view><image src="/pages/img/3.3.png"></image><text>充值记录</text></view>
+
+<view><image src="/pages/img/3.4.png"></image><text>阅读记录</text></view>
+
+<view><image src="/pages/img/3.5.png"></image><text>卡券记录</text></view>
+
+<view><image src="/pages/img/3.6.png"></image><text>我的金币</text></view>
+
+<view><image src="/pages/img/3.7.png"></image><text>消息中心</text></view>
+
+<button type="primary">登录微信</button>
+</view>

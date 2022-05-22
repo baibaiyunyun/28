@@ -1,0 +1,46 @@
+ <view class="content">
+ <form >全部</form>
+ <text>都市</text>
+ <text>逆袭</text>
+ <text>美女</text>
+ <text>打脸</text>
+ <text>赘婿</text>
+ <text>热血</text>
+ <text>战神</text>
+ <text >变强</text>
+ <text>国术</text>
+ <text>神医</text>
+  <view class="content1">
+ <form >全部</form>
+ <text>连载</text>
+ <text>完结</text>
+ </view>
+ <view class="content1">
+ <form >全部</form>
+ <text>免费</text>
+ <text>精品</text>
+ </view>
+ </view>
+
+
+ <view class="content2">
+    <view><image src="/pages/img/2.1.JPG"></image></view>
+    <text>十方武圣</text>
+    <view class="oned">末日荒土，世宗三年，天下大乱，民不聊生。中央皇朝崩坏，各地群雄割据，门派独立。魔门妖党隐于暗</view>
+    <view class="onea">滚开 · 292万字 · 东方玄幻 · 完结</view>
+ </view>
+
+ <view class="content3">
+    <view><image src="/pages/img/2.2.JPG"></image></view>
+    <text>临渊行</text>
+    <view class="oneb">苏云怎么也没有想到，自己生活了十几年的天门镇，只有自己是人。他更没有想到天门镇外，方圆百里，</view>
+    <view class="onec">宅猪 · 342万字 · 东方玄幻 · 完结</view>
+ </view>
+
+ <view class="content4">
+    <view><image src="/pages/img/2.3.JPG"></image></view>
+    <text>一世之尊</text>
+    <view class="onex">我这一生，不问前尘，不求来世，只轰轰烈烈，快意恩仇，败尽各族英杰，傲笑六道神魔！万年之后，大</view>
+    <view class="oney">爱潜水的乌贼 · 445万字 · 东方玄幻 · 完结</view>
+ </view>
+

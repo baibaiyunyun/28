@@ -1,0 +1,135 @@
+.content{
+  width: 750rpx;
+  height: 351rpx;
+  background-color: lightgray;
+  font-size: 30rpx;
+}
+.content form{
+    margin-top: 23rpx;
+    margin-left: 18rpx;
+    color: red;
+    display: flex;
+
+}
+.content text{
+    margin-left: 46rpx;
+}
+.content2 image{
+     width: 234rpx;
+     height: 304rpx;
+     margin-top: 35rpx;
+     margin-left: 35rpx;
+     position: absolute;
+}
+.content2 ,.content3,.content4{
+    position: relative;
+}
+.content2 text{
+    display: block;
+   margin-left: 328rpx;
+   margin-bottom: 46rpx;
+   position: absolute;
+   top: 46rpx;
+   left: 0;
+
+   width:398rpx;
+   font-weight: 900;
+}
+.content2 view.oned{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 117rpx;
+    left: 0;
+    width:398rpx;
+    font-size:23rpx;
+}
+.content2 view.onea{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 257rpx;
+    left: 0;
+    color: rgb(64, 131, 207);
+    width:398rpx;
+    font-size:18rpx;
+}
+.content3 view image{
+    width: 234rpx;
+    height: 304rpx;
+    margin-top: 351rpx;
+    margin-left: 35rpx;
+    position: absolute;
+}
+
+.content3 text{
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+   top: 375rpx;
+   left: 0;
+    width: 398rpx;
+ 
+ }
+.content3 view.oneb{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 445rpx;
+    left: 0;
+    width:398rpx;
+    font-size:23rpx;
+}
+.content3 view.onec{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 586rpx;
+    left: 0;
+    color: rgb(64, 131, 207);
+    width:398rpx;
+    font-size:18rpx;
+}
+.content4 view image{
+    width: 234rpx;
+    height: 304rpx;
+    margin-top: 703rpx;
+    margin-left: 35rpx;
+    position: absolute;
+}
+   
+.content4 text{
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    width: 281rpx;
+    height: 46rpx;
+    position: absolute;
+    top: 750rpx;
+    left: 0;
+ }
+
+ .content4 view.onex{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 820rpx;
+    left: 0;
+    width:398rpx;
+    font-size:23rpx;
+}
+.content4 view.oney{
+    display: block;
+    margin-left: 328rpx;
+    margin-bottom: 46rpx;
+    position: absolute;
+    top: 960rpx;
+    left: 0;
+    color: rgb(64, 131, 207);
+    width:398rpx;
+    font-size:18rpx;
+}
